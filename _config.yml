@@ -1,6 +1,6 @@
 name: Pour People
 favicon: null
-layout_spectrum: 0.2652865992859006
+layout_spectrum: 1
 typography_spectrum: 0.607495945179835
 title: The Mixology Marketplace
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ccd2db'
+    - '#000000'
+    - '#983695'
     - '#ffffff'
-    - '#7da0d1'
-    - '#256ca6'
-    - '#5f83ac'
-  brandStrength: 0.6875
+    - '#414142'
+    - '#9f9f9f'
+  brandStrength: 0.5
   lightness: 0.6540472840424627
   saturation: 0.3966421619988978
   rhythmicContrast: 0.75
