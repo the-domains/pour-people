@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T10:37:29.839Z'
+datePublished: '2016-01-19T10:37:29.898Z'
 dateModified: '2016-01-19T10:37:26.935Z'
 title: Friends of the Pour
 author: []
