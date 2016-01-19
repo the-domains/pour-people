@@ -4,21 +4,14 @@
         <description><![CDATA[The Mixology Marketplace]]></description>
         <link>https://thegrid.ai/pour-people/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 08:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 08:12:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pour-people/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pour People]]></title>
-            <description><![CDATA[<article><h1>Pour People</h1><p>Welcome to the mixology marketplace!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7efd2b24c01031481bda140d9a8d49064c81fd83.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Pour People</h1><p>Welcome to the mixology marketplace!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d5427f8d1a74f95e366f3b795d459a524139d17.png"></article>]]></description>
             <link>https://thegrid.ai/pour-people/7fb980dd-52cc-409c-ade4-fdd5440e91d8/index.html</link>
             <guid isPermaLink="false">7fb980dd-52cc-409c-ade4-fdd5440e91d8</guid>
             <pubDate>Tue, 19 Jan 2016 08:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Pour People is a full service staffing marketplace created for Mixologists, Bartenders, and Bar Staff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0664be7a2d00a296b3ac66b1d1a9720743e592aa.gif"></article>]]></description>
-            <link>https://thegrid.ai/pour-people/about/index.html</link>
-            <guid isPermaLink="false">6257219b-d064-4e4c-b21a-75b269035762</guid>
-            <pubDate>Tue, 19 Jan 2016 07:23:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
