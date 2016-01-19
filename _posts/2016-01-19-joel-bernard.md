@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T10:00:06.751Z'
-dateModified: '2016-01-19T10:00:03.278Z'
+datePublished: '2016-01-19T10:00:57.728Z'
+dateModified: '2016-01-19T10:00:50.327Z'
 title: Pour Profiles
 author: []
 sourcePath: _posts/2016-01-19-joel-bernard.md
