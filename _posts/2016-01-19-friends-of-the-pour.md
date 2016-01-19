@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T10:19:56.353Z'
-dateModified: '2016-01-19T10:19:51.360Z'
+datePublished: '2016-01-19T10:26:09.991Z'
+dateModified: '2016-01-19T10:26:07.373Z'
 title: Friends of the Pour
 author: []
 sourcePath: _posts/2016-01-19-friends-of-the-pour.md
