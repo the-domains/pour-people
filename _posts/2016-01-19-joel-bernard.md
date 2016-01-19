@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T10:06:15.879Z'
-dateModified: '2016-01-19T10:06:11.253Z'
+datePublished: '2016-01-19T10:12:01.654Z'
+dateModified: '2016-01-19T10:11:58.179Z'
 title: Pour Profiles
 author: []
 sourcePath: _posts/2016-01-19-joel-bernard.md
@@ -23,9 +23,9 @@ _type: WebPage
 
 ---
 # Pour Profiles
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8546b4c3-6c7e-4e52-8cc4-14ca678520d2.jpg)
 
 **Joel Bernard**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bbda17b-006c-4d45-8e0f-e5e736d2487b.jpg)
 
 I was born and raised in Bayside, Queens. I am naturally outgoing and have been performing since the age of ten. I love tending bar because it gives me the chance to meet new people and get to know them through my work. While traveling abroad I have sampled the drinks and cuisines of Russia, Ireland, Costa Rica, Peru and Brazil. I have worked in bars, restaurants, and have done special events for over ten years. My favorite cocktails to make are Old Fashions and Caipirinhas. 
 
@@ -58,4 +58,4 @@ Hi! My name is Mike and I hail from Buffalo, New York.While I do love my hometow
 
 ****
 
-Thanks for your interest in my profile! I am kind hearted, friendly and always have a smile on at work. I love to help people, and thrive in a fast paced environment. Although my standards are high in everything I do, I like to keep things relaxed and enjoyable for everyone. I have worked for a wine importing company for over five years and am very skilled in the selection and tasting of wine. I am also well informed in regards to food allergies, nutrition, and dietary requirements, so I can be a great asset in helping clients with dietary restrictions.
+Thanks for your interest in my profile! I am kind hearted, friendly and always have a smile on at work. I love to help people, and thrive in a fast paced environment. Although my standards are high in everything I do, I like to keep things relaxed and enjoyable for everyone. I have worked for a wine importing company for over five years and am very skilled in the selection and tasting of wine. I am also well informed in regards to food allergies, nutrition, and dietary requirements, so I can be a great asset in helping clients with dietary restrictions. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e125574-b261-4684-a55e-97002bb668a7.jpg)
