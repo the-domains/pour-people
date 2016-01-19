@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mixologist
-datePublished: '2016-01-19T06:44:49.953Z'
-dateModified: '2016-01-19T06:44:30.778Z'
+datePublished: '2016-01-19T08:01:10.319Z'
+dateModified: '2016-01-19T08:01:05.774Z'
 title: Joel Bernard
 author: []
+sourcePath: _posts/2016-01-19-joel-bernard.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-joel-bernard.md
-published: true
 url: joel-bernard/index.html
 _type: WebPage
 
@@ -26,6 +26,6 @@ I was born and raised in Bayside, Queens. I am naturally outgoing and have been 
 
 Joel has a Master of Fine Arts degree from the American Conservatory Theatre in San Francisco. He is a trained and certified Mixologist.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8744ef0a-1915-44f0-9ce0-9065c2a8b3a4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/785dc730-c8da-48ad-8628-49b7034f1fe8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a88887c-89fd-455c-b861-4b5943e678af.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bca0487933b4dc28f002c799e0f30d0c3d7a2006.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f543320-d3f6-4b3a-ac7a-0e120c4352fd.jpg)
