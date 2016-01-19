@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Mixologist/Flare
-datePublished: '2016-01-19T07:06:39.574Z'
-dateModified: '2016-01-19T07:06:34.718Z'
+datePublished: '2016-01-19T09:35:21.922Z'
+dateModified: '2016-01-19T09:35:18.958Z'
 title: Vanessa Bontea
 author: []
 sourcePath: _posts/2016-01-19-vanessa-bontea.md
