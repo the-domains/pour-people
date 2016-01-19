@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T10:09:02.472Z'
-dateModified: '2016-01-19T10:08:58.928Z'
+datePublished: '2016-01-19T10:19:56.188Z'
+dateModified: '2016-01-19T10:19:51.360Z'
 title: Friends of the Pour
 author: []
 sourcePath: _posts/2016-01-19-friends-of-the-pour.md
@@ -25,8 +25,8 @@ _type: WebPage
 # Friends of the Pour
 
 Hear what all the Buzz is about and check out some of our clientele!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe1c7fc2-6289-48d2-a9ad-2a5173950264.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c659dee6-9a38-4890-a8a8-508b9457af34.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b51bc218-f671-493a-9d35-c3353a113e59.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/511fbb27-70a3-4c48-a87b-2cb5d80db99d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3029e09-7e67-46d4-9066-337ba59b2fcf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de51a3d137043be1cd1dd8091c79d81b8e3e8f62.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42a4b8bf27553c770c9955f76126264af09e50c8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ebaa86d395455fb0f105ea5ed6fae9390a4f661.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb5e04aecd1587de44b7c90347366009ac1bc2a5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/69376f86a0cd1e2474a33b83bfbec4b0335650ab.jpg)
