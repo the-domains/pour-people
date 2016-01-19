@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T10:37:29.927Z'
-dateModified: '2016-01-19T10:37:26.935Z'
+datePublished: '2016-01-19T10:42:14.485Z'
+dateModified: '2016-01-19T10:42:11.379Z'
 title: Friends of the Pour
 author: []
 sourcePath: _posts/2016-01-19-friends-of-the-pour.md
@@ -25,7 +25,7 @@ _type: WebPage
 # Friends of the Pour
 
 Hear what all the Buzz is about and check out some of our clientele!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4563e6f0e76afc75723357d99fa836ebbc42fae9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/89aac017327429d5cfdbeb21b1ebeef8042cbcc6.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11506bdac9acd1ab1c78956c598ae153e2406a1d.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d2cddbd7903dc3134b622e747b7b6585b07804c.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/977a6c1fc524d55f90f080e1346a6238662dc822.jpg)
