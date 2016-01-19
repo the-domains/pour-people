@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mixologist
-datePublished: '2016-01-19T08:44:25.134Z'
-dateModified: '2016-01-19T08:44:17.994Z'
+datePublished: '2016-01-19T09:33:06.387Z'
+dateModified: '2016-01-19T09:32:58.246Z'
 title: Joel Bernard
 author: []
 sourcePath: _posts/2016-01-19-joel-bernard.md
