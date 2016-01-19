@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T09:31:20.881Z'
-dateModified: '2016-01-19T09:31:16.827Z'
+datePublished: '2016-01-19T09:33:59.230Z'
+dateModified: '2016-01-19T09:33:52.118Z'
 title: Friends of the Pour
 author: []
 sourcePath: _posts/2016-01-19-friends-of-the-pour.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: friends-of-the-pour/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Friends of the Pour
