@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T10:12:01.709Z'
-dateModified: '2016-01-19T10:11:58.179Z'
+datePublished: '2016-01-19T10:15:08.765Z'
+dateModified: '2016-01-19T10:15:02.166Z'
 title: Pour Profiles
 author: []
 sourcePath: _posts/2016-01-19-joel-bernard.md
@@ -23,9 +23,9 @@ _type: WebPage
 
 ---
 # Pour Profiles
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e180a9a1-5bf5-493a-a493-2663d5a383ed.jpg)
 
 **Joel Bernard**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bbda17b-006c-4d45-8e0f-e5e736d2487b.jpg)
 
 I was born and raised in Bayside, Queens. I am naturally outgoing and have been performing since the age of ten. I love tending bar because it gives me the chance to meet new people and get to know them through my work. While traveling abroad I have sampled the drinks and cuisines of Russia, Ireland, Costa Rica, Peru and Brazil. I have worked in bars, restaurants, and have done special events for over ten years. My favorite cocktails to make are Old Fashions and Caipirinhas. 
 
