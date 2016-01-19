@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T09:33:28.709Z'
-dateModified: '2016-01-19T09:33:26.917Z'
+datePublished: '2016-01-19T10:09:34.506Z'
+dateModified: '2016-01-19T10:09:30.485Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-01-19-contact-us.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 # Contact Us
 
-## _"_Work is__the curse of the drinking classes."
+## _"_Work is __the curse of the drinking classes."
 
 ## -Oscar Wilde
 
