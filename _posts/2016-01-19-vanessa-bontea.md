@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Mixologist/Flare
-datePublished: '2016-01-19T06:39:37.699Z'
-dateModified: '2016-01-19T06:38:57.199Z'
+datePublished: '2016-01-19T06:42:40.870Z'
+dateModified: '2016-01-19T06:41:34.167Z'
 title: Vanessa Bontea
 author: []
+sourcePath: _posts/2016-01-19-vanessa-bontea.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-vanessa-bontea.md
-published: true
 url: vanessa-bontea/index.html
 _type: Blurb
 
